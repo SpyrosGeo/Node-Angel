@@ -1,0 +1,14 @@
+{
+  "name": "angel",
+  "version": "1.0.0",
+  "description": "a nodemon alternative",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spyros Geo",
+  "license": "ISC",
+  "bin": {
+    "angel": "index.js"
+  }
+}
