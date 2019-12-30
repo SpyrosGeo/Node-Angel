@@ -5,7 +5,14 @@ These instructions will get you a copy of the project up and running on your loc
 ### Prerequisites
 For node-angel to run you need to install some dependencies.Dont worry they are purified with holy water.
 ```
-to be announced 
+[Caporal](https://www.npmjs.com/package/caporal)
+```
+
+```
+[Chokidar](https://www.npmjs.com/package/chokidar)
+```
+```
+[lodash.debounce](https://www.npmjs.com/package/lodash.debounce)
 ```
 ### Installing
 Installing Dependencies
@@ -16,7 +23,7 @@ Linking the project to God
 ```
 npm link or sudo npm link 
 ```
-to ask God watch over your project 
+Ask God watch over your project 
 ```
 angel 
 ```
