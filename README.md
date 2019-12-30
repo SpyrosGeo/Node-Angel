@@ -24,7 +24,7 @@ Linking the project to God
 ```
 npm link or sudo npm link 
 ```
-Ask God watch over your project 
+Ask God to watch over your project 
 ```
 angel 
 ```
